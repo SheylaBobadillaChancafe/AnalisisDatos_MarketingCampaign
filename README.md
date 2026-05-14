@@ -29,6 +29,7 @@ El proyecto incluye:
 ---
 
 # 📂 Información del Dataset
+Fuente: https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset/data
 
 El dataset contiene información de clientes relacionada con:
 
